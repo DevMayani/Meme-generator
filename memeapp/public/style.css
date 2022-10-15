@@ -1,0 +1,44 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+nav{
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 40px;
+}
+.logoimg{
+   margin-left: 10px;
+   
+}
+.meme{
+  margin-right: 250px;
+}
+.course{
+  margin-right:20px;
+}
+input{
+ margin-left: 60px;
+ width: 200px;
+ height: 30px;
+ border-radius: 5px;
+ 
+}
+.inp{
+  margin-top: 40px;
+}
+button{
+  margin-top: 20px;
+  margin-left: 60px;
+  width: 470px;
+  height: 30px;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+}
+.meme-image{
+  max-width: 100%;
+ 
+}
